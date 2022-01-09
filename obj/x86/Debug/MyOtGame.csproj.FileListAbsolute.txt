@@ -1,0 +1,9 @@
+C:\Users\user\Downloads\reversi\MyOtGame\obj\x86\Debug\MyOtGame.GameForm.resources
+C:\Users\user\Downloads\reversi\MyOtGame\obj\x86\Debug\MyOtGame.Properties.Resources.resources
+C:\Users\user\Downloads\reversi\MyOtGame\obj\x86\Debug\MyOtGame.csproj.GenerateResource.Cache
+C:\Users\user\Downloads\reversi\MyOtGame\bin\Debug\MyOtGame.exe
+C:\Users\user\Downloads\reversi\MyOtGame\bin\Debug\MyOtGame.pdb
+C:\Users\user\Downloads\reversi\MyOtGame\obj\x86\Debug\MyOtGame.exe
+C:\Users\user\Downloads\reversi\MyOtGame\obj\x86\Debug\MyOtGame.pdb
+C:\Users\user\Downloads\reversi\MyOtGame\obj\x86\Debug\MyOtGame.csproj.AssemblyReference.cache
+C:\Users\user\Downloads\reversi\MyOtGame\obj\x86\Debug\MyOtGame.csproj.CoreCompileInputs.cache
